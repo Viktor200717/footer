@@ -1,0 +1,18 @@
+body
+{
+    background-color: rgb(216, 127, 17);
+    size: 100%;
+}
+header{
+    text-align: center;
+}
+
+#kontakt
+{
+  background-color: burlywood;
+}
+#autor
+{
+    size: 100%;
+    background-color: burlywood;
+}
